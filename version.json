@@ -1,10 +1,5 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/fueproject/fue/releases/download/1.5.1/FollowUpEmail_Setup.exe",
-  "notes": "Correzione di bug minori e miglioramenti delle performance.",
-  "changelog": [
-    "- Migliorata la stabilità del sistema di aggiornamento.",
-    "- Aggiunta la possibilità di posticipare le notifiche.",
-    "- Corretto un errore di visualizzazione nel tema scuro."
-  ]
+  "version": "1.5.2",
+  "url": "https://github.com/fueproject/fue/releases/download/1.5.2/FollowUpEmail_Setup.exe",
+  "checksum_sha256": "hash_del_nuovo_file_exe" 
 }
