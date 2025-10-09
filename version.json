@@ -1,8 +1,9 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/fueproject/fue/releases/download/1.7.1/FollowUpEmail_Setup.exe",
-  "checksum_sha256": "039f24712bd127865285cab5813a3c6d7bdd1fc32d562c14ad442468bb90a2e2" 
+  "version": "1.7.2",
+  "url": "https://github.com/fueproject/fue/releases/download/1.7.2/FollowUpEmail_Setup.exe",
+  "checksum_sha256": "f52bfec87d8eb04bd36356728f36a3ae6b55ee1e13060de0fcb9622b34ad8263" 
 }
+
 
 
 
